@@ -1,4 +1,4 @@
-# Smart Bin Project
+# Rover Project
 
 This project is about creating a smart bin using an ESP32 camera module. The bin is equipped with a camera and motors, and it can be controlled over WiFi.
 
@@ -24,7 +24,7 @@ The hardware components of the project include:
 
 ## Software
 
-The software part of the project includes setting up a WiFi server and handling the incoming requests to control the bin's movements and camera.
+The software part of the project includes setting up a WiFi server and handling the incoming requests to control the rover's movements and camera.
 
 ## Setup
 
@@ -36,7 +36,7 @@ The software part of the project includes setting up a WiFi server and handling 
 
 ## Usage
 
-The bin can be controlled using the arrow keys on the keyboard. The camera feed can be viewed on the web interface.
+The rover can be controlled using the arrow keys on the keyboard. The camera feed can be viewed on the web interface.
 
 ## Note
 
